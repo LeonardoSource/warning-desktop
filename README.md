@@ -1,0 +1,1 @@
+Exibe avisos na tela
